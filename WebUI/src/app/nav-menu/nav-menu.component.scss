@@ -1,0 +1,9 @@
+.separator {
+  flex: 1 1 auto;
+}
+
+.title {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  max-width: 60%;
+}
