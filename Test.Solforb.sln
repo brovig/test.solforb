@@ -9,13 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.Entities", "Domain\D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "Application\Service.csproj", "{0AF3CB1B-BD82-458A-908F-FA7B66EDFD8F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrdersApp", "Presentation\OrdersApp.csproj", "{E545E6A0-04AA-4BE6-A50F-2C961C1D15B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrdersApp", "OrdersApp\OrdersApp.csproj", "{E545E6A0-04AA-4BE6-A50F-2C961C1D15B5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{3DF617FE-081D-4A3C-8D55-F4F33DF17049}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.Contracts", "Domain.Contracts\Domain.Contracts.csproj", "{80A2E19B-B034-4027-81F4-F4CAC0259514}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Presentation", "Presentation.Controllers\Presentation.csproj", "{4781FA8D-E01B-4A33-931E-49CDCFC34D19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Presentation", "Presentation\Presentation.csproj", "{4781FA8D-E01B-4A33-931E-49CDCFC34D19}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service.Contracts", "Service.Contracts\Service.Contracts.csproj", "{99DD5233-4BBB-471F-872F-3C204EC4E619}"
 EndProject
