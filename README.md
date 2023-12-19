@@ -26,3 +26,6 @@ Web API реализован по принципам Onion Architecture: все слои взаимодействуют дру
 
 ## Фильтрация
 Реализована через параметры в строке запроса. Помимо обозначенных в задании фильтров, через query string также реализована pagination на серверной и клиентской части.  
+
+![](https://github.com/brovig/test.solforb/blob/master/main_page.png)
+
